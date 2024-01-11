@@ -4468,11 +4468,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\User\\Desktop\\Курсов проект\\ET_Vest\\ET_Vest\\ET_Vest.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Курсова работа\\Et_Vest\\ET_Vest\\ET_Vest\\ET_Vest.csproj",
       "projectName": "ET_Vest",
-      "projectPath": "C:\\Users\\User\\Desktop\\Курсов проект\\ET_Vest\\ET_Vest\\ET_Vest.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Курсова работа\\Et_Vest\\ET_Vest\\ET_Vest\\ET_Vest.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\User\\Desktop\\Курсов проект\\ET_Vest\\ET_Vest\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Курсова работа\\Et_Vest\\ET_Vest\\ET_Vest\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

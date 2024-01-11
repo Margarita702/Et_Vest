@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LoN4Ty7n3FCDZy8gym5iUDDWM0A+t88xlnKScpClDxMfIMkW0W8rH5p04M8WAVxdQHYorgYg/KbgKYpeDsP20w==",
+  "dgSpecHash": "o+Q4+xSolM9Q7HIl3/QQDEA+cRiwwvJCJ/xLLcu1XWUFozSi+tvCljf8iZfDwlAH7Em0t9aN/cbOp6CeTnGVlw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\User\\Desktop\\Курсов проект\\ET_Vest\\ET_Vest\\ET_Vest.csproj",
+  "projectFilePath": "C:\\Users\\User\\Desktop\\Курсова работа\\Et_Vest\\ET_Vest\\ET_Vest\\ET_Vest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
